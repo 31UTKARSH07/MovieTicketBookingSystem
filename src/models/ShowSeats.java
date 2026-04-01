@@ -22,6 +22,11 @@ public class ShowSeats {
         }
         return false;
     }
+
+    public String getId() {
+        return id;
+    }
+
     public void bookSeat() {
         this.status = SeatStatus.BOOKED;
     }
