@@ -1,4 +1,4 @@
-# 🎬 MovieFlow — Movie Ticket Booking System
+# 🎬 Movie Ticket Booking System
 
 > A production-grade, concurrent movie ticket booking backend inspired by BookMyShow — built in Java with a focus on thread safety, SOLID principles, and extensible design patterns.
 
